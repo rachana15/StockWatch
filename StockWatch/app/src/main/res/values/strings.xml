@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="stock_name">stockName</string>
+    <string name="add_id">addStock</string>
+    <string name="add_item">addItem</string>
+    <string name="stock_symbol">stockSymbol</string>
+    <string name="stock_value">stockValue</string>
+    <string name="stock_change">stockChange</string>
+    <string name="stock_change_percent">stockChangePercent</string>
+</resources>
